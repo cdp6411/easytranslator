@@ -1,0 +1,2 @@
+include ':app', ':NativeTemplatesAndroid-1.0.0', ':nativetemplates'
+rootProject.name='EasyTranslator'

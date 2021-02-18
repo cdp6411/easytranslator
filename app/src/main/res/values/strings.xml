@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EasyTranslator</string>
+
+    <dimen name="translate_text_size">30sp</dimen>
+    <string name="new_translate">Translate</string>
+    <string name="no_internet_connection">No Internet Connection Available</string>
+    <string name="speech_prompt">Speak Now</string>
+    <string name="language_pack_missing">This language speech pack needs to be installed</string>
+    <string name="language_not_supported">This language speech is currently not supported</string>
+
+</resources>
